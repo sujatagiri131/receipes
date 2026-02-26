@@ -7,6 +7,7 @@
 * pepper
 * diced tomatoes
 * diced onions
+* minced garlic
 ## Instructions
 
 
