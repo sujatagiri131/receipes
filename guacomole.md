@@ -5,6 +5,7 @@
 * lemon
 * salt
 * pepper
+* diced tomatoes
 ## Instructions
 
 
